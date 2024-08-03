@@ -1,0 +1,4 @@
+baseURL = 'https://ottawabaptist.ca/'
+languageCode = 'en-us'
+title = 'Ottawa Baptist Association'
+theme = 'oba'
