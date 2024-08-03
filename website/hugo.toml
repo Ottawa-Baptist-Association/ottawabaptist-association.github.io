@@ -2,3 +2,27 @@ baseURL = 'https://ottawabaptist.ca/'
 languageCode = 'en-us'
 title = 'Ottawa Baptist Association'
 theme = 'oba'
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    disabled = false
+    contentDir = "content/en"
+    languageName = "EN"
+    languageCode = "en-CA"
+    title = "Ottawa Baptist Association"
+    [languages.en.params]
+      subtitle = ""
+    weight = 10
+
+  [languages.fr]
+    disabled = false
+    contentDir = "content/french"
+    languageName = "FR"
+    languageCode = "fr-CA"
+    title = "L' Association Baptiste D' Ottawa"
+    [languages.fr.params]
+      subtitle = ""
+    weight = 20
