@@ -4,7 +4,11 @@
     <div class="container xl:flex-row lg:flex-row !flex-nowrap items-center">
       <div class="navbar-brand w-full">
         <a href="/">
-          <img src="/img/logo.png" alt="OBA-ABO">
+          {{ if eq $.Site.Language.Lang "en" }}
+            <img src="/img/logo-en.png" alt="Ottawa Baptist Association">
+          {{ else }}
+            <img src="/img/logo-fr.png" alt="L'Association Baptiste D'Ottawa">
+          {{ end }}
         </a>
       </div>
       <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">

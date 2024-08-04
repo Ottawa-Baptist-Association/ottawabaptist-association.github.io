@@ -30,14 +30,13 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te1.jpg" alt="image">
-                  <h4 class="mb-1">Coriss Ambady</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Financial Analyst</div>
-                  <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
+                  <h4 class="mb-1">Hugh Willett</h4>
+                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Pasteur</div>
+                  <p class="!mb-2"></p>
                   <nav class="nav social !mb-0">
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-twitter before:content-['\ed59'] text-[1rem] text-[#5daed5]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-facebook-f before:content-['\eae2'] text-[1rem] text-[#4470cf]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-dribbble before:content-['\eaa2'] text-[1rem] text-[#e94d88]"></i></a>
+                    <!-- <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#">
+                      <i class="uil uil-envelope-alt before:content-['\eac8'] text-[1rem] text-[#343f52]"></i> -->
+                    </a>
                   </nav>
                   <!-- /.social -->
                 </div>
@@ -52,14 +51,12 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te2.jpg" alt="image">
-                  <h4 class="mb-1">Cory Zamora</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Marketing Specialist</div>
-                  <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
+                  <h4 class="mb-1">Don Collar</h4>
+                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Pasteur</div>
+                  <p class="!mb-2"></p>
                   <nav class="nav social !mb-0">
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-twitter before:content-['\ed59'] text-[1rem] text-[#5daed5]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-facebook-f before:content-['\eae2'] text-[1rem] text-[#4470cf]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-dribbble before:content-['\eaa2'] text-[1rem] text-[#e94d88]"></i></a>
+                    <!-- <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#">
+                      <i class="uil uil-envelope-alt before:content-['\eac8'] text-[1rem] text-[#343f52]"></i> -->
                   </nav>
                   <!-- /.social -->
                 </div>
@@ -74,14 +71,12 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te3.jpg" alt="image">
-                  <h4 class="mb-1">Nikolas Brooten</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Sales Manager</div>
-                  <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
+                  <h4 class="mb-1">Tony Boonstra</h4>
+                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Pasteur</div>
+                  <p class="!mb-2"></p>
                   <nav class="nav social !mb-0">
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-twitter before:content-['\ed59'] text-[1rem] text-[#5daed5]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-facebook-f before:content-['\eae2'] text-[1rem] text-[#4470cf]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-dribbble before:content-['\eaa2'] text-[1rem] text-[#e94d88]"></i></a>
+                    <!-- <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#">
+                      <i class="uil uil-envelope-alt before:content-['\eac8'] text-[1rem] text-[#343f52]"></i> -->
                   </nav>
                   <!-- /.social -->
                 </div>
@@ -91,73 +86,7 @@ url: "/fr/pulpit-supply/"
             </div>
             <!-- /.item-inner -->
           </div>
-          <!--/.swiper-slide -->
-          <div class="swiper-slide">
-            <div class="item-inner">
-              <div class="card">
-                <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te4.jpg" alt="image">
-                  <h4 class="mb-1">Jackie Sanders</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Investment Planner</div>
-                  <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
-                  <nav class="nav social !mb-0">
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-twitter before:content-['\ed59'] text-[1rem] text-[#5daed5]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-facebook-f before:content-['\eae2'] text-[1rem] text-[#4470cf]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-dribbble before:content-['\eaa2'] text-[1rem] text-[#e94d88]"></i></a>
-                  </nav>
-                  <!-- /.social -->
-                </div>
-                <!--/.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.item-inner -->
-          </div>
-          <!--/.swiper-slide -->
-          <div class="swiper-slide">
-            <div class="item-inner">
-              <div class="card">
-                <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te5.jpg" alt="image">
-                  <h4 class="mb-1">Laura Widerski</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Sales Specialist</div>
-                  <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
-                  <nav class="nav social !mb-0">
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-twitter before:content-['\ed59'] text-[1rem] text-[#5daed5]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-facebook-f before:content-['\eae2'] text-[1rem] text-[#4470cf]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-dribbble before:content-['\eaa2'] text-[1rem] text-[#e94d88]"></i></a>
-                  </nav>
-                  <!-- /.social -->
-                </div>
-                <!--/.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.item-inner -->
-          </div>
-          <!--/.swiper-slide -->
-          <div class="swiper-slide">
-            <div class="item-inner">
-              <div class="card">
-                <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te6.jpg" alt="image">
-                  <h4 class="mb-1">Tina Geller</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Financial Analyst</div>
-                  <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
-                  <nav class="nav social !mb-0">
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-twitter before:content-['\ed59'] text-[1rem] text-[#5daed5]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-facebook-f before:content-['\eae2'] text-[1rem] text-[#4470cf]"></i></a>
-                    <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#"><i class="uil uil-dribbble before:content-['\eaa2'] text-[1rem] text-[#e94d88]"></i></a>
-                  </nav>
-                  <!-- /.social -->
-                </div>
-                <!--/.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.item-inner -->
-          </div>
-          <!--/.swiper-slide -->
+          <!--/.swiper-slide -->       
         </div>
         <!--/.swiper-wrapper -->
       </div>
