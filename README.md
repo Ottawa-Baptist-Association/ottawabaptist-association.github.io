@@ -30,3 +30,12 @@ https://pages.github.com/
 
 - Creating a Hugo Theme from Scratch
 https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/
+
+## Snippits
+```
+{{ if eq $.Site.Language.Lang "en" }}
+Welcome
+{{ else }}
+
+{{ end }}
+```
