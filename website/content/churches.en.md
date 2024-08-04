@@ -206,7 +206,7 @@ url: "/en/churches/"
         </figure>
         <div class="project-details flex justify-center flex-col">
           <div class="post-header">
-            <h2 class="post-title h3 text-[1.1rem]"><a href="#" class="text-[#343f52] hover:text-[#3f78e0]">Osgoode Baptist and Vernon United Church</a></h2>
+            <h2 class="post-title h3 text-[1.1rem]"><a href="#" class="text-[#343f52] hover:text-[#3f78e0]">Osgoode Baptist/Vernon United</a></h2>
             <h2 class="!text-[.75rem] uppercase  text-line relative align-top pl-[1.4rem] before:content-[''] before:absolute before:inline-block before:translate-y-[-60%] before:w-3 before:h-[0.05rem] before:left-0 before:top-2/4 before:bg-[#3f78e0]  text-[#343f52]">Pastor Phil Beals</h2>
           </div>
           <!-- /.post-header -->
@@ -251,7 +251,7 @@ url: "/en/churches/"
         </figure>
         <div class="project-details flex justify-center flex-col">
           <div class="post-header">
-            <h2 class="post-title h3 text-[1.1rem]"><a href="https://bethanybaptistchurch.ca/" class="text-[#343f52] hover:text-[#3f78e0]">Winchester Baptist Church</a></h2>
+            <h2 class="post-title h3 text-[1.1rem]"><a href="#" class="text-[#343f52] hover:text-[#3f78e0]">Winchester Baptist Church</a></h2>
             <h2 class="!text-[.75rem] uppercase  text-line relative align-top pl-[1.4rem] before:content-[''] before:absolute before:inline-block before:translate-y-[-60%] before:w-3 before:h-[0.05rem] before:left-0 before:top-2/4 before:bg-[#3f78e0]  text-[#343f52]">Pastor Bud & Mollie McKibbon</h2>
           </div>
           <!-- /.post-header -->
