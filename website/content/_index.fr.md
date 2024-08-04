@@ -2,7 +2,7 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "L'Association Baptiste D'Ottawa"
-titleText: "meow"
+titleText: ""
 titleImage: ""
 layout: "index"
 type: "page"
@@ -33,19 +33,19 @@ url: "/fr/"
     <div class="xl:!px-[1.25rem] lg:!px-[1.25rem] !mb-[4.5rem] xl:!mb-[7rem] lg:!mb-[7rem] md:!mb-[7rem]">
       <div class="flex flex-wrap mx-0 md:mx-[-20px] lg:mx-[-20px] xl:mx-[-35px] mt-[-40px] justify-center">
         <div class="w-4/12 xl:w-2/12 lg:w-2/12 md:w-2/12 flex-[0_0_auto] px-[15px] w-full md:px-[20px] lg:px-[20px] xl:px-[35px] mt-[40px] max-w-full">
-          <figure class="px-5 md:!px-0 lg:!px-2 xl:!px-3 xxl:!px-4"><a href="https://baptist.ca/"><img src="/img/pages/home/brands/c1.png" alt="Baptistes canadiens de l'Ontario et du Québec"></a></figure>
+          <figure class=""><a href="https://baptist.ca/"><img src="/img/pages/home/brands/c1.png" alt="Baptistes canadiens de l'Ontario et du Québec"></a></figure>
         </div>
         <!--/column -->
         <div class="w-4/12 xl:w-2/12 lg:w-2/12 md:w-2/12 flex-[0_0_auto] px-[15px] w-full md:px-[20px] lg:px-[20px] xl:px-[35px] mt-[40px] max-w-full">
-          <figure class="px-5 md:!px-0 lg:!px-2 xl:!px-3 xxl:!px-4"><a href="https://www.cbmin.org/"><img src="/img/pages/home/brands/c2.png" alt="Ministères baptistes canadiens"></a></figure>
+          <figure class=""><a href="https://www.cbmin.org/"><img src="/img/pages/home/brands/c2.png" alt="Ministères baptistes canadiens"></a></figure>
         </div>
         <!--/column -->
         <div class="w-4/12 xl:w-2/12 lg:w-2/12 md:w-2/12 flex-[0_0_auto] px-[15px] w-full md:px-[20px] lg:px-[20px] xl:px-[35px] mt-[40px] max-w-full">
-          <figure class="px-5 md:!px-0 lg:!px-2 xl:!px-3 xxl:!px-4"><a href="https://baptistworld.org/"><img src="/img/pages/home/brands/c3.png" alt="Alliance baptiste mondiale"></a></figure>
+          <figure class=""><a href="https://baptistworld.org/"><img src="/img/pages/home/brands/c3.png" alt="Alliance baptiste mondiale"></a></figure>
         </div>
         <!--/column -->
         <div class="w-4/12 xl:w-2/12 lg:w-2/12 md:w-2/12 flex-[0_0_auto] px-[15px] w-full md:px-[20px] lg:px-[20px] xl:px-[35px] mt-[40px] max-w-full">
-          <figure class="px-5 md:!px-0 lg:!px-2 xl:!px-3 xxl:!px-4"><a href="https://www.matthewhouseottawa.org/"><img src="/img/pages/home/brands/c4.png" alt="Maison Matthew Ottawa"></a></figure>
+          <figure class=""><a href="https://www.matthewhouseottawa.org/"><img src="/img/pages/home/brands/c4.png" alt="Maison Matthew Ottawa"></a></figure>
         </div>
         <!--/column -->
       </div>

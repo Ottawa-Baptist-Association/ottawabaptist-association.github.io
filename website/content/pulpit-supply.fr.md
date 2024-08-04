@@ -30,7 +30,7 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te1.jpg" srcset="/img/avatars/te1@2x.jpg 2x" alt="image">
+                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te1.jpg" alt="image">
                   <h4 class="mb-1">Coriss Ambady</h4>
                   <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Financial Analyst</div>
                   <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -52,7 +52,7 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te2.jpg" srcset="/img/avatars/te2@2x.jpg 2x" alt="image">
+                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te2.jpg" alt="image">
                   <h4 class="mb-1">Cory Zamora</h4>
                   <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Marketing Specialist</div>
                   <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -74,7 +74,7 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te3.jpg" srcset="/img/avatars/te3@2x.jpg 2x" alt="image">
+                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te3.jpg" alt="image">
                   <h4 class="mb-1">Nikolas Brooten</h4>
                   <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Sales Manager</div>
                   <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -96,7 +96,7 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te4.jpg" srcset="/img/avatars/te4@2x.jpg 2x" alt="image">
+                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te4.jpg" alt="image">
                   <h4 class="mb-1">Jackie Sanders</h4>
                   <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Investment Planner</div>
                   <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -118,7 +118,7 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te5.jpg" srcset="/img/avatars/te5@2x.jpg 2x" alt="image">
+                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te5.jpg" alt="image">
                   <h4 class="mb-1">Laura Widerski</h4>
                   <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Sales Specialist</div>
                   <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -140,7 +140,7 @@ url: "/fr/pulpit-supply/"
             <div class="item-inner">
               <div class="card">
                 <div class="card-body p-[40px]">
-                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te6.jpg" srcset="/img/avatars/te6@2x.jpg 2x" alt="image">
+                  <img class="rounded-[50%] !w-[5rem] mb-4" src="/img/avatars/te6.jpg" alt="image">
                   <h4 class="mb-1">Tina Geller</h4>
                   <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Financial Analyst</div>
                   <p class="!mb-2">Fermentum massa justo sit amet risus morbi leo.</p>

@@ -24,9 +24,13 @@ defaultContentLanguage = "en"
         url = '/en/churches/'
         weight = 20
       [[languages.en.menus.main]]
+        name = 'Board of Directors'
+        url = '/en/about/board-of-directors/'
+        weight = 30
+      [[languages.en.menus.main]]
         name = 'Pulpit Supply'
         url = '/en/pulpit-supply/'
-        weight = 30
+        weight = 40
   [languages.fr]
     disabled = false
     languageName = "FR"
@@ -45,6 +49,10 @@ defaultContentLanguage = "en"
         url = '/fr/churches/'
         weight = 20
       [[languages.fr.menus.main]]
+        name = 'Direction et conseil d’administration'
+        url = '/fr/about/board-of-directors'
+        weight = 30
+      [[languages.fr.menus.main]]
         name = 'Fourniture de chaire'
         url = '/fr/pulpit-supply/'
-        weight = 30
+        weight = 40

@@ -2,7 +2,7 @@
 
 ## Reference
 
-The following documents at a high level the steps taken to convert the [Sandbox - Tailwind CSS Modern & Multipurpose Template](https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-template/51340309) into a Hugo theme and build this website from scratch.
+The following documents at a high level the steps taken to convert the [Sandbox - Tailwind CSS Modern & Multipurpose Template](https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-template/51340309) into a Hugo theme and build this website from scratch. If you are looking for code snippits have a look at [Demo 3](https://preview.themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-template/full_screen_preview/51340309).
 
 - Create a hugo site
 `hugo new site website --force`
