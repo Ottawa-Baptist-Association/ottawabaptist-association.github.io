@@ -198,20 +198,20 @@ ss
             <!--/column -->
             <div class="xl:w-3/12 lg:w-3/12 md:w-3/12 w-full flex-[0_0_auto] px-[15px] max-w-full mt-[30px]">
               <img src="/img/icons/lineal/user.svg" class="svg-inject icon-svg icon-svg-lg text-[#3f78e0] !mb-3 !w-12 !h-12 m-[0_auto]" alt="image">
-              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">17</h3>
-              <p class=" text-[0.8rem] font-medium mb-0">Pastors</p>
+              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">1455</h3>
+              <p class=" text-[0.8rem] font-medium mb-0">Members</p>
             </div>
             <!--/column -->
             <div class="xl:w-3/12 lg:w-3/12 md:w-3/12 w-full flex-[0_0_auto] px-[15px] max-w-full mt-[30px]">
               <img src="/img/icons/lineal/briefcase-2.svg" class="svg-inject icon-svg icon-svg-lg text-[#3f78e0] !mb-3 !w-12 !h-12 m-[0_auto]" alt="image">
-              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">2184</h3>
-              <p class=" text-[0.8rem] font-medium mb-0">Parishioners</p>
+              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">667</h3>
+              <p class=" text-[0.8rem] font-medium mb-0">Adherents</p>
             </div>
             <!--/column -->
             <div class="xl:w-3/12 lg:w-3/12 md:w-3/12 w-full flex-[0_0_auto] px-[15px] max-w-full mt-[30px]">
               <img src="/img/icons/lineal/award-2.svg" class="svg-inject icon-svg icon-svg-lg text-[#3f78e0] !mb-3 !w-12 !h-12 m-[0_auto]" alt="image">
-              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">4523</h3>
-              <p class=" text-[0.8rem] font-medium mb-0">Awards Won</p>
+              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">5</h3>
+              <p class=" text-[0.8rem] font-medium mb-0">Baptisms</p>
             </div>
             <!--/column -->
           </div>
