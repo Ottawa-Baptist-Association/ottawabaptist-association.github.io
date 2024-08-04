@@ -23,7 +23,10 @@ defaultContentLanguage = "en"
         name = 'Churches'
         url = '/en/churches/'
         weight = 20
-
+      [[languages.en.menus.main]]
+        name = 'Pulpit Supply'
+        url = '/en/pulpit-supply/'
+        weight = 30
   [languages.fr]
     disabled = false
     languageName = "FR"
@@ -41,3 +44,7 @@ defaultContentLanguage = "en"
         name = 'Églises'
         url = '/fr/churches/'
         weight = 20
+      [[languages.fr.menus.main]]
+        name = 'Fourniture de chaire'
+        url = '/fr/pulpit-supply/'
+        weight = 30
