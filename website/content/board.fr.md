@@ -181,22 +181,6 @@ url: "/fr/about/board-of-directors"
         <!-- /div -->
       </div>
       <!--/column -->
-      <div class="md:w-6/12 lg:w-3/12 xl:w-3/12 w-full flex-[0_0_auto] xl:px-[25px] lg:px-[20px] md:px-[20px] px-[15px] max-w-full md:mt-[40px] sm:mt-[40px] xsm:mt-[40px]">
-        <div class="!relative">
-          <div class="shape !rounded-[.4rem] !bg-[#fcf0f1] rellax xl:block lg:block md:block absolute" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
-          <div class="card">
-            <figure class="card-img-top"></figure>
-            <div class="card-body px-6 py-5">
-              <h4 class="!mb-1">Mark Faassen</h4>
-              <p class="!mb-0 text-[.85rem]">Directeur</p>
-            </div>
-            <!--/.card-body -->
-          </div>
-          <!-- /.card -->
-        </div>
-        <!-- /div -->
-      </div>
-      <!--/column -->            
     </div>
     <!--/.row -->
   </div>

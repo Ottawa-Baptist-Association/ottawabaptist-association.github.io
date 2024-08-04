@@ -245,40 +245,6 @@ url: "/fr/churches/"
     </div>
     <hr class="my-8" />
     <!-- /.row -->
-
-
-<div class="itemgrid grid-view projects-masonry">
-    <div class="flex flex-wrap mx-[-15px] xl:mx-[-20px] lg:mx-[-20px] md:mx-[-20px] mt-[-50px] xl:mt-[-80px] lg:mt-[-80px] md:mt-[-80px] isotope">
-      <div class="project item group md:w-6/12 lg:w-6/12 xl:w-4/12 w-full flex-[0_0_auto] xl:px-[20px] lg:px-[20px] md:px-[20px] px-[15px] mt-[50px] xl:mt-[80px] lg:mt-[80px] md:mt-[80px] max-w-full">
-        <figure class="!rounded-[.4rem] !mb-6"><img class="!rounded-[.4rem]">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.7948716261276!2d-75.65743502316995!3d45.39330857107289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce0f5ecb997081%3A0x9f88b86315f6aaad!2s414%20Pleasant%20Park%20Rd%2C%20Ottawa%2C%20ON%20K1H%205N1!5e0!3m2!1sen!2sca!4v1722779730317!5m2!1sen!2sca" width="410" height="440" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        
-        </figure>
-        <div class="project-details flex justify-center flex-col">
-          <div class="post-header">
-            <h2 class="post-title h3 text-[1.1rem]"><a href="#" class="text-[#343f52] hover:text-[#3f78e0]">Winchester Baptist Church</a></h2>
-            <h2 class="!text-[.75rem] uppercase  text-line relative align-top pl-[1.4rem] before:content-[''] before:absolute before:inline-block before:translate-y-[-60%] before:w-3 before:h-[0.05rem] before:left-0 before:top-2/4 before:bg-[#3f78e0]  text-[#343f52]">Pastor Bud & Mollie McKibbon</h2>
-          </div>
-          <!-- /.post-header -->
-        </div>
-        <!-- /.project-details -->
-      </div>
-      <!-- /.item -->
-      <div class="project item group md:w-6/12 lg:w-6/12 xl:w-4/12 w-full flex-[0_0_auto] xl:px-[20px] lg:px-[20px] md:px-[20px] px-[15px] mt-[50px] xl:mt-[80px] lg:mt-[80px] md:mt-[80px] max-w-full">
-        <figure class="!rounded-[.4rem] !mb-6"><img class="!rounded-[.4rem]">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.595341310821!2d-74.65270300856218!3d45.51822399649378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cceeb8374d6a9c9%3A0xd8bc709efc3c143!2s156%20Main%20St%20E%2C%20Vankleek%20Hill%2C%20ON%20K0B%201R0!5e0!3m2!1sen!2sca!4v1722779818554!5m2!1sen!2sca" width="410" height="440" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </figure>
-        <div class="project-details flex justify-center flex-col">
-          <div class="post-header">
-            <h2 class="post-title h3 text-[1.1rem]"><a href="#" class="text-[#343f52] hover:text-[#3f78e0]">Vankleek Hill Baptist Church</a></h2>
-            <h2 class="!text-[.75rem] uppercase  text-line relative align-top pl-[1.4rem] before:content-[''] before:absolute before:inline-block before:translate-y-[-60%] before:w-3 before:h-[0.05rem] before:left-0 before:top-2/4 before:bg-[#3f78e0]  text-[#343f52]">N/A</h2>
-          </div>
-          <!-- /.post-header -->
-        </div>
-        <!-- /.project-details -->
-      </div>
-      <!-- /.item -->
-    </div>
-    <!-- /.row -->
   </div>
   <!-- /.grid -->
 </div>

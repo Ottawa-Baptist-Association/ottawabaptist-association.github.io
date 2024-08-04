@@ -22,7 +22,7 @@ url: "/en/"
       <!--/column -->
       <div class="xl:w-5/12 lg:w-5/12 w-full flex-[0_0_auto] px-[15px] lg:px-0 xl:px-[20px] max-w-full xl:mt-[-2.5rem] lg:mt-[-2.5rem] mt-[4rem] text-center lg:text-left xl:text-left" data-cues="slideInDown" data-group="page-title" data-delay="600">
         <h1 class="text-[calc(1.385rem_+_1.62vw)]  font-normal tracking-[normal] font-DMSerif !leading-[1.1] xl:text-[2.6rem] mb-5">Welcome to the Ottawa Baptist Association</h1>
-        <p class="lead text-[1.25rem] leading-normal mb-7 md:!px-10 lg:!px-0">17 Churches with <b>One</b> Mission</p>
+        <p class="lead text-[1.25rem] leading-normal mb-7 md:!px-10 lg:!px-0">15 Churches with <b>One</b> Mission</p>
         <div class="flex justify-center lg:!justify-start xl:!justify-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
           <span><a href="/en/about/" class="btn btn-lg btn-primary text-white !bg-[#3f78e0] border-[#3f78e0] hover:text-white hover:bg-[#3f78e0] hover:border-[#3f78e0] focus:shadow-[rgba(92,140,229,1)] active:text-white active:bg-[#3f78e0] active:border-[#3f78e0] disabled:text-white disabled:bg-[#3f78e0] disabled:border-[#3f78e0] !rounded-[50rem] !mr-2">Learn More</a></span>
         </div>

@@ -28,7 +28,7 @@ url: "/fr/about/"
         <div class="xl:w-6/12 lg:w-6/12 w-full flex-[0_0_auto] xl:px-[35px] lg:px-[20px] px-[15px] mt-[50px] max-w-full">
           <img src="/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md !w-[2.6rem] !h-[2.6rem] mb-4" alt="image">
           <h2 class="text-[calc(1.305rem_+_0.66vw)] font-bold xl:text-[1.8rem] leading-[1.3] !mb-3">Qui sommes-nous?</h2>
-          <p class="lead !text-[1.05rem] !leading-[1.6] font-medium">17 Églises avec une seule mission.</p>
+          <p class="lead !text-[1.05rem] !leading-[1.6] font-medium">15 Églises avec une seule mission.</p>
           <p class="!mb-6">Se soutenir et s'encourager mutuellement dans leur mission d'atteindre les gens avec l'amour de Jésus-Christ.</p>
           <div class="flex flex-wrap mx-[-15px] mt-[-15px] xl:mx-[-20px]">
             <div class="xl:w-6/12 w-full flex-[0_0_auto] mt-[15px] xl:px-[20px] px-[15px] max-w-full">
@@ -64,7 +64,7 @@ url: "/fr/about/"
           <div class="flex flex-wrap mx-[-15px] items-center counter-wrapper mt-[-30px] !text-center">
             <div class="xl:w-3/12 lg:w-3/12 md:w-3/12 w-full flex-[0_0_auto] px-[15px] max-w-full mt-[30px]">
               <img src="/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-lg text-[#3f78e0] !mb-3 !w-12 !h-12 m-[0_auto]" alt="image">
-              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">17</h3>
+              <h3 class="counter xl:text-[2rem] text-[calc(1.325rem_+_0.9vw)] tracking-[normal] !leading-none mb-2">15</h3>
               <p class=" text-[0.8rem] font-medium mb-0">Églises</p>
             </div>
             <!--/column -->
