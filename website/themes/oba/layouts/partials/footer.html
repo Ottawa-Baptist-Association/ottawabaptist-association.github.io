@@ -22,7 +22,7 @@
         <div class="widget">
           <h4 class="widget-title !mb-3">{{ if eq $.Site.Language.Lang "en" }}Learn More{{ else }}En savoir plus{{ end }}</h4>
           <ul class="pl-0 list-none !mb-0">
-            <li><a class="text-[#60697b] hover:text-[#3f78e0]" href="#">About Us</a></li>
+            <li><a class="text-[#60697b] hover:text-[#3f78e0]" href="{{ if eq $.Site.Language.Lang "en" }}/en{{ else }}/fr{{ end }}/about/">{{ if eq $.Site.Language.Lang "en" }}About Us{{ else }}À propos de nous{{ end }}</a></li>
             <li class="mt-[0.35rem]"><a class="text-[#60697b] hover:text-[#3f78e0]" href="#">Our Story</a></li>
             <li class="mt-[0.35rem]"><a class="text-[#60697b] hover:text-[#3f78e0]" href="#">Projects</a></li>
             <li class="mt-[0.35rem]"><a class="text-[#60697b] hover:text-[#3f78e0]" href="#">Terms of Use</a></li>

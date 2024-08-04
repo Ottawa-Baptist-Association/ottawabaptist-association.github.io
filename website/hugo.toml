@@ -16,7 +16,7 @@ defaultContentLanguage = "en"
     weight = 10
     [languages.en.menus]
       [[languages.en.menus.main]]
-        name = 'About'
+        name = 'About Us'
         url = '/en/about/'
         weight = 10
       [[languages.en.menus.main]]
@@ -34,7 +34,7 @@ defaultContentLanguage = "en"
     weight = 20
     [languages.fr.menus]
       [[languages.fr.menus.main]]
-        name = 'À propos'
+        name = 'À propos de nous'
         url = '/fr/about/'
         weight = 10
       [[languages.fr.menus.main]]
