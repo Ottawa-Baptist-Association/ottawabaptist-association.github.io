@@ -159,7 +159,7 @@ url: "/en/churches/"
         </figure>
         <div class="project-details flex justify-center flex-col">
           <div class="post-header">
-            <h2 class="post-title h3 text-[1.1rem]"><a href="https://kbc.ca/" class="text-[#343f52] hover:text-[#3f78e0]">Kanata Baptist Church Congregation Inc</a></h2>
+            <h2 class="post-title h3 text-[1.1rem]"><a href="https://kbc.ca/" class="text-[#343f52] hover:text-[#3f78e0]">Kanata Baptist Church</a></h2>
             <h2 class="!text-[.75rem] uppercase  text-line relative align-top pl-[1.4rem] before:content-[''] before:absolute before:inline-block before:translate-y-[-60%] before:w-3 before:h-[0.05rem] before:left-0 before:top-2/4 before:bg-[#3f78e0]  text-[#343f52]">Pastor Bob Davies & Stephen Budd</h2>
           </div>
           <!-- /.post-header -->
