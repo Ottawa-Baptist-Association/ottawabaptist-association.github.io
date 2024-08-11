@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2024-08-03T19:02:46-04:00
-title: "Fourniture de chaire"
+title: "Prédicateurs d'approvisionnement en chaire"
 headerText: "Communiquez avec les prédicateurs de la région d’Ottawa."
 titleImage: "/img/pages/pulpit-supply/header-pulpit.png"
 headerImage: "single"
