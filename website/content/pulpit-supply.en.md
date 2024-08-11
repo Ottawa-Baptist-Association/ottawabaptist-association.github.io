@@ -2,11 +2,11 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "Pulpit Supply"
-titleText: "Connect with Ottawa area preachers."
-titleImage: "/img/pages/pulpit-supply/header-pulpit.png"
+headerText: "Connect with Ottawa area preachers."
+headerImage: "/img/pages/pulpit-supply/header-pulpit.png"
 layout: "single"
 type: "page"
-url: "/en/pulpit-supply/"
+slug: "/en/pulpit-supply/"
 ---
 
 {{< rawhtml >}}

@@ -1,12 +1,12 @@
 ---
 draft: false
 date: 2024-08-03T19:02:46-04:00
-title: "About"
-titleText: "L'Association Baptiste D'Ottawa"
-titleImage: "/img/pages/about/header-about.png"
+title: "À propos"
+headerText: L'Association Baptiste D'Ottawa
+headerImage: /img/pages/about/header-about.png
 layout: "single"
 type: "page"
-url: "/fr/about/"
+slug: "about"
 ---
 
 {{< rawhtml >}}

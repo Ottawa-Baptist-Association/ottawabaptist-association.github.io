@@ -3,25 +3,29 @@
 <div class="grow shrink-0">
 
   {{ partial "navigation.html" . }}
-
+  
   <section class="wrapper !bg-[#edf2fc]">
     <div class="container pt-10 pb-14 xl:pt-[4.5rem] lg:pt-[4.5rem] md:pt-[4.5rem] xl:pb-24 lg:pb-24 md:pb-24 !text-center">
       <div class="flex flex-wrap mx-[-15px]">
         <div class="md:w-9/12 lg:w-7/12 xl:w-5/12 w-full flex-[0_0_auto] px-[15px] max-w-full !mx-auto">
           <h1 class="text-[calc(1.365rem_+_1.38vw)] font-bold leading-[1.2] xl:text-[2.4rem] !mb-3">{{ .Params.Title }}</h1>
-          <p class="lead xxl:!px-[2.5rem] leading-[1.65] text-[0.9rem] font-medium">{{ .Params.titleText }}</p>
+          <p class="lead xxl:!px-[2.5rem] leading-[1.65] text-[0.9rem] font-medium">{{ .Params.headerText }}</p>
         </div>
         <!-- /column -->
       </div>
       <!-- /.row -->
     </div>
     <!-- /.container -->
-    <figure class="absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{ .Params.titleImage }}" alt="image"></figure>     
+    <figure class="absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{ .Params.headerImage }}" alt="image"></figure>     
   </section>  
   <!-- /section -->
-
+   
   {{ .Content }}
 
 </div>
 
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer.html" . }}
 {{ end }}

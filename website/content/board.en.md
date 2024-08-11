@@ -2,13 +2,13 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "Executive and Board of Directors"
-titleText: ""
-titleImage: "/img/pages/board-of-directors/header-board.png"
+headerText: ""
+headerImage: "/img/pages/board-of-directors/header-board.png"
 layout: "single"
 type: "page"
-url: "/en/about/board-of-directors"
+slug: "/en/about/board-of-directors"
 ---
-  
+
 {{< rawhtml >}}
 
 <section class="wrapper !bg-[#ffffff] ">

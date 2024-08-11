@@ -2,11 +2,11 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "About"
-titleText: "Ottawa Baptist Association"
-titleImage: "/img/pages/about/header-about.png"
+headerText: "Ottawa Baptist Association"
+headerImage: "/img/pages/about/header-about.png"
 layout: "single"
 type: "page"
-url: "/en/about/"
+slug: "en/about"
 ---
 
 {{< rawhtml >}}

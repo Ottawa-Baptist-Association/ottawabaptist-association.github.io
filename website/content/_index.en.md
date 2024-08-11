@@ -2,13 +2,10 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "Ottawa Baptist Association"
-titleText: ""
-titleImage: ""
 layout: "index"
 type: "page"
-url: "/en/"
 ---
-  
+
 {{< rawhtml >}}
 
 <section class="wrapper !bg-[#ffffff]">

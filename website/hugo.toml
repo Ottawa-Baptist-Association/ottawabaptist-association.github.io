@@ -2,7 +2,7 @@ baseURL = "https://ottawabaptist.ca/"
 title = "Ottawa Baptist Association"
 theme = "oba"
 contentDir = "content"
-languageCode = "en-us"
+languageCode = "en-US"
 defaultContentLanguage = "en"
 
 [languages]
@@ -31,6 +31,22 @@ defaultContentLanguage = "en"
         name = 'Pulpit Supply'
         url = '/en/pulpit-supply/'
         weight = 40
+      [[languages.en.menus.footer]]
+        name = 'About Us'
+        url = '/en/about/'
+        weight = 10
+      [[languages.en.menus.footer]]
+        name = 'Churches'
+        url = '/en/churches/'
+        weight = 20
+      [[languages.en.menus.footer]]
+        name = 'Board of Directors'
+        url = '/en/about/board-of-directors/'
+        weight = 30
+      [[languages.en.menus.footer]]
+        name = 'Pulpit Supply'
+        url = '/en/pulpit-supply/'
+        weight = 40
   [languages.fr]
     disabled = false
     languageName = "FR"
@@ -53,6 +69,22 @@ defaultContentLanguage = "en"
         url = '/fr/about/board-of-directors'
         weight = 30
       [[languages.fr.menus.main]]
+        name = 'Fourniture de chaire'
+        url = '/fr/pulpit-supply/'
+        weight = 40
+      [[languages.fr.menus.footer]]
+        name = 'À propos de nous'
+        url = '/fr/about/'
+        weight = 10
+      [[languages.fr.menus.footer]]
+        name = 'Églises'
+        url = '/fr/churches/'
+        weight = 20
+      [[languages.fr.menus.footer]]
+        name = 'Direction et conseil d’administration'
+        url = '/fr/about/board-of-directors'
+        weight = 30
+      [[languages.fr.menus.footer]]
         name = 'Fourniture de chaire'
         url = '/fr/pulpit-supply/'
         weight = 40

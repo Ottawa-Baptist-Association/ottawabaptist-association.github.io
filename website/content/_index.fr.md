@@ -2,11 +2,6 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "L'Association Baptiste D'Ottawa"
-titleText: ""
-titleImage: ""
-layout: "index"
-type: "page"
-url: "/fr/"
 ---
 
 {{< rawhtml >}}

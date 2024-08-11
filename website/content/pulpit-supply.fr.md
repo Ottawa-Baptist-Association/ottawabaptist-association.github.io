@@ -2,11 +2,11 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "Fourniture de chaire"
-titleText: "Communiquez avec les prédicateurs de la région d’Ottawa."
+headerText: "Communiquez avec les prédicateurs de la région d’Ottawa."
 titleImage: "/img/pages/pulpit-supply/header-pulpit.png"
-layout: "single"
+headerImage: "single"
 type: "page"
-url: "/fr/pulpit-supply/"
+slug: "/fr/pulpit-supply/"
 ---
 
 {{< rawhtml >}}
@@ -104,6 +104,5 @@ url: "/fr/pulpit-supply/"
     </div>
 
 </div>
-
 
 {{< /rawhtml >}}

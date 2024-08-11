@@ -1,0 +1,28 @@
+{{ if.IsNamedParams }}
+  <div class="project item group md:w-6/12 lg:w-6/12 xl:w-4/12 w-full flex-[0_0_auto] xl:px-[20px] lg:px-[20px] md:px-[20px] px-[15px] mt-[50px] xl:mt-[80px] lg:mt-[80px] md:mt-[80px] max-w-full">
+    <figure class="!rounded-[.4rem]!mb-6"><img class="!rounded-[.4rem]">
+      <iframe src="{{.Get "googlemap" }}" width="410" height="440" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </figure>
+    <div class="project-details flex justify-center flex-col">
+      <div class="post-header">
+        <h2 class="post-title h3 text-[1.1rem]"><a href="{{.Get "website" }}" class="text-[#343f52] hover:text-[#3f78e0]">{{.Get "name" }}</a></h2>
+        {{ $pastors :=.Get "pastors" }}
+        {{ $pastorList := strings.Split $pastors ", " }}
+        <h2 class="!text-[.75rem] uppercase  text-line relative align-top pl-[1.4rem] before:content-[''] before:absolute before:inline-block before:translate-y-[-60%] before:w-3 before:h-[0.05rem] before:left-0 before:top-2/4 before:bg-[#3f78e0]  text-[#343f52]">
+          {{ if eq $.Site.Language.Lang "en" }}Pastor(s):{{ else }}Pasteur(s):{{ end }}
+          {{ range $pastorList }}
+            {{ $pastor :=. }}
+            {{ if strings.Contains $pastor ":" }}
+              {{ $pastorEmailList := strings.Split $pastor ":" }}
+              {{ $name := index $pastorEmailList 0 }}
+              {{ $email := index $pastorEmailList 1 }}
+              <a href="mailto:{{ $email }}">{{ $name }}</a>{{ if ne (add (sub (len $pastorList) 1) 1) (index $pastorList | len) }}, {{ end }}
+            {{ else }}
+              {{ $pastor }}{{ if ne (add (sub (len $pastorList) 1) 1) (index $pastorList | len) }}, {{ end }}
+            {{ end }}
+          {{ end }}
+        </h2>
+      </div>
+    </div>
+  </div>
+{{ end }}
