@@ -6,7 +6,7 @@ headerText: ""
 headerImage: "/img/pages/board-of-directors/header-board.png"
 layout: "single"
 type: "page"
-slug: "board-of-directors"
+url: "/en/board-of-directors"
 ---
 
 {{< rawhtml >}}

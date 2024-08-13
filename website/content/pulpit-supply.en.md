@@ -6,7 +6,7 @@ headerText: "Connect with Ottawa area preachers."
 headerImage: "/img/pages/pulpit-supply/header-pulpit.png"
 layout: "single"
 type: "page"
-slug: "pulpit-supply"
+slug: "/en/pulpit-supply"
 ---
 
 {{< rawhtml >}}

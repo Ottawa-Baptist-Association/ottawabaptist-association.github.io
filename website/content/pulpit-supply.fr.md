@@ -6,7 +6,7 @@ headerText: "Communiquez avec les prédicateurs de la région d’Ottawa."
 headerImage: "/img/pages/pulpit-supply/header-pulpit.png"
 layout: "single"
 type: "page"
-slug: "pulpit-supply"
+url: "/fr/pulpit-supply"
 ---
 
 {{< rawhtml >}}

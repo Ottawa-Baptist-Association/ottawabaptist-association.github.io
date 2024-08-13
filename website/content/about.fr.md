@@ -6,7 +6,7 @@ headerText: L'Association Baptiste D'Ottawa
 headerImage: /img/pages/about/header-about.png
 layout: "single"
 type: "page"
-slug: "about"
+url: "/fr/about"
 ---
 
 {{< rawhtml >}}

@@ -6,7 +6,7 @@ headerText: "Ottawa Baptist Association"
 headerImage: "/img/pages/about/header-about.png"
 layout: "single"
 type: "page"
-slug: "about"
+url: "/en/about"
 ---
 
 {{< rawhtml >}}
