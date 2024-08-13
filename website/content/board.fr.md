@@ -208,7 +208,7 @@ slug: "/fr/about/board-of-directors"
               <div class="card">
                 <div class="card-body p-[40px]">
                   <h4 class="mb-1">Bob Davies</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Président du comité ministériel de l’association and NCAC</div>
+                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]"- Président du comité ministériel de l’association<br/>- Nouveau président du comité d’application de l’Église</div>
                   </nav>
                   <!-- /.social -->
                 </div>
