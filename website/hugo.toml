@@ -25,7 +25,7 @@ defaultContentLanguage = "en"
         weight = 20
       [[languages.en.menus.main]]
         name = 'Board of Directors'
-        url = '/en/about/board-of-directors/'
+        url = '/en/board-of-directors/'
         weight = 30
       [[languages.en.menus.main]]
         name = 'Pulpit Supply'
@@ -41,7 +41,7 @@ defaultContentLanguage = "en"
         weight = 20
       [[languages.en.menus.footer]]
         name = 'Board of Directors'
-        url = '/en/about/board-of-directors/'
+        url = '/en/board-of-directors/'
         weight = 30
       [[languages.en.menus.footer]]
         name = 'Pulpit Supply'
@@ -66,7 +66,7 @@ defaultContentLanguage = "en"
         weight = 20
       [[languages.fr.menus.main]]
         name = 'Direction et conseil d’administration'
-        url = '/fr/about/board-of-directors'
+        url = '/fr/board-of-directors'
         weight = 30
       [[languages.fr.menus.main]]
         name = 'Fourniture de chaire'
@@ -82,7 +82,7 @@ defaultContentLanguage = "en"
         weight = 20
       [[languages.fr.menus.footer]]
         name = 'Direction et conseil d’administration'
-        url = '/fr/about/board-of-directors'
+        url = '/fr/board-of-directors'
         weight = 30
       [[languages.fr.menus.footer]]
         name = 'Fourniture de chaire'

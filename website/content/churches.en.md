@@ -6,7 +6,7 @@ headerText: "OBA affiliated churches"
 headerImage: "/img/pages/churches/header-churches.png"
 layout: "single"
 type: "page"
-slug: "/en/churches/"
+slug: "churches"
 ---
 
 {{< rawhtml >}}

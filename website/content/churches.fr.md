@@ -6,7 +6,7 @@ headerText: "Églises affiliées à l’ABO"
 headerImage: "/img/pages/churches/header-churches.png"
 layout: "single"
 type: "page"
-slug: "/fr/churches/"
+slug: "churches"
 ---
 
 {{< rawhtml >}}
