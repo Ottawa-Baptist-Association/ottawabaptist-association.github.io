@@ -117,7 +117,7 @@ slug: "/fr/churches/"
         name      = "REVIVE Church Alexandria"
         website   = "https://revivealexandria.com/"
         pastors    = "Mark Willock:pastor@revivealexandria.com"
-        googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d701.4320885503506!2d-74.63730513031112!3d45.31391269819201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccea2c9baaad31d%3A0xe26e4d93af558291!2s36%20Kincardine%20St%20E%2C%20Alexandria%2C%20ON%20K0C%201A0!5e0!3m2!1sen!2sca!4v1723509735352!5m2!1sen!2sca"
+        googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.728354111892!2d-74.6366614!3d45.313912699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccea300391209bd%3A0x275068c51cb34f16!2sREVIVE%20Church%20Alexandria!5e0!3m2!1sen!2sca!4v1723509805322!5m2!1sen!2sca"
       >}}         
 
     </div>
