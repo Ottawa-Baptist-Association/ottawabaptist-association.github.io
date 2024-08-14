@@ -192,7 +192,7 @@ url: "/fr/board-of-directors"
 <div class="container pt-20 xl:pt-28 lg:pt-28 md:pt-28 pb-16 xl:pb-20 lg:pb-20 md:pb-20">
   <div class="flex flex-wrap mx-[-15px] !mb-3">
     <div class="md:w-10/12 lg:w-10/12 xl:w-9/12 xxl:w-7/12 w-full flex-[0_0_auto] px-[15px] max-w-full !mx-auto !text-center">
-      <h2 class="text-[calc(1.305rem_+_0.66vw)] font-bold xl:text-[1.8rem] leading-[1.3] mb-3 xl:!px-[4.5rem] lg:!px-[4.5rem]">Nouveau comité d’application de l’Église</h2>
+      <h2 class="text-[calc(1.305rem_+_0.66vw)] font-bold xl:text-[1.8rem] leading-[1.3] mb-3 xl:!px-[4.5rem] lg:!px-[4.5rem]">- Comité de Ministère de l'Association<br/>- Nouveau comité d’application de l’Église</h2>
     </div>
     <!--/column -->
   </div>

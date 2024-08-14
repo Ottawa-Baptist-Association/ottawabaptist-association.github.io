@@ -69,7 +69,7 @@ defaultContentLanguage = "en"
         url = '/fr/board-of-directors'
         weight = 30
       [[languages.fr.menus.main]]
-        name = 'Fourniture de chaire'
+        name = 'Prédicateurs d'approvisionnement en chaire'
         url = '/fr/pulpit-supply/'
         weight = 40
       [[languages.fr.menus.footer]]
