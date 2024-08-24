@@ -2,7 +2,7 @@
 draft: false
 date: 2024-08-03T19:02:46-04:00
 title: "Churches"
-headerText: "OBA affiliated churches"
+headerText: "Members of the OBA"
 headerImage: "/img/pages/churches/header-churches.png"
 layout: "single"
 type: "page"
