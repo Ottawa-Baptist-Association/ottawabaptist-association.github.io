@@ -33,7 +33,7 @@ defaultContentLanguage = "en"
         weight = 40
       [[languages.en.menus.main]]
         name = 'Annual Book 2024'
-        url = '/AnnualBook2024-5B.pdf'
+        url = 'https://github.com/Ottawa-Baptist-Association/ottawabaptist-association.github.io/blob/b3763ca34f10d0481c723705bbe5e6f3aacb5301/website/themes/oba/static/AnnualBook2024-5B.pdf'
         weight = 50        
       [[languages.en.menus.footer]]
         name = 'About Us'
@@ -53,7 +53,7 @@ defaultContentLanguage = "en"
         weight = 40
       [[languages.en.menus.footer]]
         name = 'Annual Book 2024'
-        url = '/AnnualBook2024-5B.pdf'
+        url = 'https://github.com/Ottawa-Baptist-Association/ottawabaptist-association.github.io/blob/b3763ca34f10d0481c723705bbe5e6f3aacb5301/website/themes/oba/static/AnnualBook2024-5B.pdf'
         weight = 50        
   [languages.fr]
     disabled = false
@@ -82,7 +82,7 @@ defaultContentLanguage = "en"
         weight = 40
       [[languages.fr.menus.main]]
         name = 'Livre annuel 2024'
-        url = '/AnnualBook2024-5B.pdf'
+        url = 'https://github.com/Ottawa-Baptist-Association/ottawabaptist-association.github.io/blob/b3763ca34f10d0481c723705bbe5e6f3aacb5301/website/themes/oba/static/AnnualBook2024-5B.pdf'
         weight = 50        
       [[languages.fr.menus.footer]]
         name = 'À propos de nous'
@@ -102,5 +102,5 @@ defaultContentLanguage = "en"
         weight = 40
       [[languages.fr.menus.footer]]
         name = 'Livre annuel 2024'
-        url = '/AnnualBook2024-5B.pdf'
+        url = 'https://github.com/Ottawa-Baptist-Association/ottawabaptist-association.github.io/blob/b3763ca34f10d0481c723705bbe5e6f3aacb5301/website/themes/oba/static/AnnualBook2024-5B.pdf'
         weight = 50        
