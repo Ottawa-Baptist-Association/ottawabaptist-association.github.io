@@ -27,7 +27,7 @@ url: "/fr/board-of-directors"
           <div class="card">
             <figure class="card-img-top"></figure>
             <div class="card-body px-6 py-5">
-              <h4 class="!mb-1">Vacant</h4>
+              <h4 class="!mb-1">Lisa Ramahefason</h4>
               <p class="!mb-0 text-[.85rem]">Trésorier</p>
             </div>
             <!--/.card-body -->
@@ -91,7 +91,7 @@ url: "/fr/board-of-directors"
           <div class="card">
             <figure class="card-img-top"></figure>
             <div class="card-body px-6 py-5">
-              <h4 class="!mb-1">Vacant</h4>
+              <h4 class="!mb-1">Pastor Rob Sellitto</h4>
               <p class="!mb-0 text-[.85rem]">Président du conseil d’administration</p>
             </div>
             <!--/.card-body -->
