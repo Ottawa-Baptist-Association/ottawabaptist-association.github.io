@@ -68,13 +68,13 @@ slug: "/en/churches"
         name        = "Elgin Baptist Church "
         website     = "#"
         pastors      = "Pastor Bruce Demitroff:revbdemitroff@gmail.com"
-        googlemap   = "httpshttps://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.6890358594974!2d-76.3581612!3d45.4357695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd1897cf6880a47%3A0xbdffa4447bd68b57!2sElgin%20Street%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1760480183352!5m2!1sen!2sca"
+        googlemap   = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.6890358594974!2d-76.3581612!3d45.4357695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd1897cf6880a47%3A0xbdffa4447bd68b57!2sElgin%20Street%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1760480183352!5m2!1sen!2sca"
       >}}
 
       {{< church 
         name      = "First Baptist Church of Ottawa"
         website   = "https://firstbaptistottawa.ca/"
-        pastors    = "Ema Prince:associateminister@firstbaptistottawa.ca"
+        pastors    = "John Perkin:minister@firstbaptistottawa.ca, Ema Prince:associateminister@firstbaptistottawa.ca"
         googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.4341994535316!2d-75.69579132300993!3d45.420747971073325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05aa60c7d1ff%3A0x7a1bfeeafd02bbbe!2sFirst%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1723509422266!5m2!1sen!2sca"
       >}}
 
