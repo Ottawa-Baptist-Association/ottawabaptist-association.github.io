@@ -23,6 +23,13 @@ slug: "/en/churches"
       >}}
 
       {{< church 
+        name        = "Breadalbane Baptist Church"
+        website     = "https://www.breadalbanechurch.com/"
+        pastors     = ""
+        googlemap   = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.861635866452!2d-74.5890091!3d45.472591099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d53d85405f33f7%3A0x7a3847a0225d08ab!2sBreadalbane%20Church!5e0!3m2!1sen!2sca!4v1760480306509!5m2!1sen!2sca"
+      >}}
+
+      {{< church 
         name        = "Bromley Road Baptist Church"
         website     = "https://bromleyroadbaptist.org/"
         pastors     = "Rob Sellitto:rob@bromleyroadbaptist.org"
@@ -34,13 +41,6 @@ slug: "/en/churches"
         website     = "#"
         pastors      = "José M’Bala:jmbala@rogers.com"
         googlemap   = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.795476460037!2d-75.65747592301106!3d45.393296371072864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce0f5ecb9c0001%3A0xb740a1dd786e387c!2sCentre%20%C3%89vang%C3%A9lique%20Foi%20Et%20Victoire!5e0!3m2!1sen!2sca!4v1723509224350!5m2!1sen!2sca"
-      >}}
-
-      {{< church 
-        name        = "Delta Baptist Church"
-        website     = "#"
-        pastors      = "Brian Wheaton:bmwheaton@gmail.com"
-        googlemap   = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2840.225192654816!2d-76.12372102304339!3d44.612870471072675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccd7b3bd153fe0f%3A0x32bf33215258b3f!2sDelta%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1723509251462!5m2!1sen!2sca"
       >}}
 
       {{< church 
@@ -65,16 +65,23 @@ slug: "/en/churches"
       >}}
 
       {{< church 
+        name        = "Elgin Baptist Church "
+        website     = "#"
+        pastors      = "Pastor Bruce Demitroff:revbdemitroff@gmail.com"
+        googlemap   = "httpshttps://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.6890358594974!2d-76.3581612!3d45.4357695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cd1897cf6880a47%3A0xbdffa4447bd68b57!2sElgin%20Street%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1760480183352!5m2!1sen!2sca"
+      >}}
+
+      {{< church 
         name      = "First Baptist Church of Ottawa"
         website   = "https://firstbaptistottawa.ca/"
-        pastors    = "John Perkin:minister@firstbaptistottawa.ca"
+        pastors    = "Ema Prince:associateminister@firstbaptistottawa.ca"
         googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.4341994535316!2d-75.69579132300993!3d45.420747971073325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05aa60c7d1ff%3A0x7a1bfeeafd02bbbe!2sFirst%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1723509422266!5m2!1sen!2sca"
       >}}
 
       {{< church 
         name      = "Fourth Avenue Baptist Church"
         website   = "http://fourthavebaptist.ca/"
-        pastors    = "Cheryle Hanna:crchanna0317@gmail.com"
+        pastors    = ""
         googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.3512561962857!2d-75.69108432301063!3d45.40225597107294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05c764fcdf75%3A0x4830ed488464aaeb!2sFourth%20Avenue%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1723509448816!5m2!1sen!2sca"
       >}}
 
@@ -107,16 +114,9 @@ slug: "/en/churches"
       >}}
 
       {{< church 
-        name      = "Pleasant Park Baptist Church"
-        website   = "https://celebrationchurch.ca/"
-        pastors    = "Jason Byers:jason@celebrationchurch.ca"
-        googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.791247577673!2d-75.65745632301095!3d45.39338167107288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce0f5ec8fce043%3A0xd0cdf4b5270a8e4b!2sCelebration*21%20Church%20Pleasant%20Park%20%7C%20Pleasant%20Park%20Baptist%20Church!5e0!3m2!1sen!2sca!4v1723509593280!5m2!1sen!2sca"
-      >}}                 
-
-      {{< church 
         name      = "REVIVE Church Alexandria"
         website   = "https://revivealexandria.com/"
-        pastors    = "Mark Willock:pastor@revivealexandria.com"
+        pastors    = ""
         googlemap = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.728354111892!2d-74.6366614!3d45.313912699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccea300391209bd%3A0x275068c51cb34f16!2sREVIVE%20Church%20Alexandria!5e0!3m2!1sen!2sca!4v1723509805322!5m2!1sen!2sca"
       >}}         
 
