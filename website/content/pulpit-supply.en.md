@@ -20,7 +20,7 @@ slug: "/en/pulpit-supply"
     <!--/column -->
   </div>
   <!--/.row -->
-  <div class="!relative">
+  <!-- <div class="!relative">
     <div class="shape !rounded-[50%] !bg-[#fff8ee] rellax !w-[6rem] !h-[6rem] absolute z-[1]" data-rellax-speed="1" style="bottom: 0.5rem; right: -1.7rem;"></div>
     <div class="shape !rounded-[50%] bg-line red rellax !w-[6rem] !h-[6rem] absolute z-[1] opacity-50" data-rellax-speed="1" style="top: 0.5rem; left: -1.7rem;"></div>
     <div class="swiper-container dots-closer !mb-6" data-margin="0" data-dots="true" data-items-xxl="4" data-items-xl="3" data-items-lg="3" data-items-md="2" data-items-xs="1">
@@ -93,11 +93,11 @@ slug: "/en/pulpit-supply"
       <!-- /.swiper -->
     </div>
     <!-- /.swiper-container -->
-  </div>
+  </div> -->
   <!-- /.relative -->
       <div class="flex flex-wrap mx-[-15px] !mt-[3rem]">
       <div class="lg:w-6/12 xl:w-5/12 w-full flex-[0_0_auto] px-[15px] max-w-full !mx-auto !text-center">
-        <h2 class="text-[calc(1.265rem_+_0.18vw)] font-bold xl:text-[1.4rem] leading-[1.35] !mb-3">Want to be added to our list?</h2>
+        <h2 class="text-[calc(1.265rem_+_0.18vw)] font-bold xl:text-[1.4rem] leading-[1.35] !mb-3">Is your church is in need of Pulpit Supply?</h2>
         <a href="mailto:info@ottawabaptist.ca" class="btn btn-primary text-white !bg-[#3f78e0] border-[#3f78e0] hover:text-white hover:bg-[#3f78e0] hover:border-[#3f78e0] focus:shadow-[rgba(92,140,229,1)] active:text-white active:bg-[#3f78e0] active:border-[#3f78e0] disabled:text-white disabled:bg-[#3f78e0] disabled:border-[#3f78e0] !rounded-[50rem] hover:translate-y-[-0.15rem] hover:shadow-[0_0.25rem_0.75rem_rgba(30,34,40,0.15)]">Get in Touch</a>
       </div>
       <!-- /column -->

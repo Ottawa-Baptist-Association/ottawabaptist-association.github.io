@@ -31,10 +31,6 @@ defaultContentLanguage = "en"
         name = 'Pulpit Supply'
         url = '/en/pulpit-supply/'
         weight = 40
-      [[languages.en.menus.main]]
-        name = 'Annual Book 2024'
-        url = 'https://github.com/Ottawa-Baptist-Association/ottawabaptist-association.github.io/blob/b3763ca34f10d0481c723705bbe5e6f3aacb5301/website/themes/oba/static/AnnualBook2024-5B.pdf'
-        weight = 50        
       [[languages.en.menus.footer]]
         name = 'About Us'
         url = '/en/about/'
@@ -51,10 +47,6 @@ defaultContentLanguage = "en"
         name = 'Pulpit Supply'
         url = '/en/pulpit-supply/'
         weight = 40
-      [[languages.en.menus.footer]]
-        name = 'Annual Book 2024'
-        url = 'https://github.com/Ottawa-Baptist-Association/ottawabaptist-association.github.io/blob/b3763ca34f10d0481c723705bbe5e6f3aacb5301/website/themes/oba/static/AnnualBook2024-5B.pdf'
-        weight = 50        
   [languages.fr]
     disabled = false
     languageName = "FR"
