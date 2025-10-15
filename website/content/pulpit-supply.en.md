@@ -19,81 +19,8 @@ slug: "/en/pulpit-supply"
     </div>
     <!--/column -->
   </div>
-  <!--/.row -->
-  <!-- <div class="!relative">
-    <div class="shape !rounded-[50%] !bg-[#fff8ee] rellax !w-[6rem] !h-[6rem] absolute z-[1]" data-rellax-speed="1" style="bottom: 0.5rem; right: -1.7rem;"></div>
-    <div class="shape !rounded-[50%] bg-line red rellax !w-[6rem] !h-[6rem] absolute z-[1] opacity-50" data-rellax-speed="1" style="top: 0.5rem; left: -1.7rem;"></div>
-    <div class="swiper-container dots-closer !mb-6" data-margin="0" data-dots="true" data-items-xxl="4" data-items-xl="3" data-items-lg="3" data-items-md="2" data-items-xs="1">
-      <div class="swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="item-inner">
-              <div class="card">
-                <div class="card-body p-[40px]">
-                  <h4 class="mb-1">Hugh Willett</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Pastor</div>
-                  <p class="!mb-2"></p>
-                  <nav class="nav social !mb-0">
-                    <!-- <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#">
-                      <i class="uil uil-envelope-alt before:content-['\eac8'] text-[1rem] text-[#343f52]"></i> -->
-                    </a>
-                  </nav>
-                  <!-- /.social -->
-                </div>
-                <!--/.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.item-inner -->
-          </div>
-          <!--/.swiper-slide -->
-          <div class="swiper-slide">
-            <div class="item-inner">
-              <div class="card">
-                <div class="card-body p-[40px]">
-                  <h4 class="mb-1">Don Collar</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Pastor</div>
-                  <p class="!mb-2"></p>
-                  <nav class="nav social !mb-0">
-                    <!-- <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#">
-                      <i class="uil uil-envelope-alt before:content-['\eac8'] text-[1rem] text-[#343f52]"></i> -->
-                  </nav>
-                  <!-- /.social -->
-                </div>
-                <!--/.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.item-inner -->
-          </div>
-          <!--/.swiper-slide -->
-          <div class="swiper-slide">
-            <div class="item-inner">
-              <div class="card">
-                <div class="card-body p-[40px]">
-                  <h4 class="mb-1">Tony Boonstra</h4>
-                  <div class="text-[0.65rem] mb-2 uppercase tracking-[0.02rem] font-bold text-[#aab0bc]">Pastor</div>
-                  <p class="!mb-2"></p>
-                  <nav class="nav social !mb-0">
-                    <!-- <a class="m-[0_.7rem_0_0] text-[1rem] transition-all duration-[0.2s] ease-in-out translate-y-0 hover:translate-y-[-0.15rem]" href="#">
-                      <i class="uil uil-envelope-alt before:content-['\eac8'] text-[1rem] text-[#343f52]"></i> -->
-                  </nav>
-                  <!-- /.social -->
-                </div>
-                <!--/.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.item-inner -->
-          </div>
-          <!--/.swiper-slide -->         
-        </div>
-        <!--/.swiper-wrapper -->
-      </div>
-      <!-- /.swiper -->
-    </div>
-    <!-- /.swiper-container -->
-  </div> -->
+  
+  </div>
   <!-- /.relative -->
       <div class="flex flex-wrap mx-[-15px] !mt-[3rem]">
       <div class="lg:w-6/12 xl:w-5/12 w-full flex-[0_0_auto] px-[15px] max-w-full !mx-auto !text-center">
