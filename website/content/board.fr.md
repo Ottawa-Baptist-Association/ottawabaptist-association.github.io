@@ -43,7 +43,7 @@ url: "/fr/board-of-directors"
           <div class="card">
             <figure class="card-img-top"></figure>
             <div class="card-body px-6 py-5">
-              <h4 class="!mb-1">Susan-Ann Craddock</h4>
+              <h4 class="!mb-1"></h4>
               <p class="!mb-0 text-[.85rem]">Greffier</p>
             </div>
             <!--/.card-body -->
@@ -139,7 +139,7 @@ url: "/fr/board-of-directors"
           <div class="card">
             <figure class="card-img-top"></figure>
             <div class="card-body px-6 py-5">
-              <h4 class="!mb-1">Rev José M’Bala</h4>
+              <h4 class="!mb-1"></h4>
               <p class="!mb-0 text-[.85rem]">Directeur</p>
             </div>
             <!--/.card-body -->
